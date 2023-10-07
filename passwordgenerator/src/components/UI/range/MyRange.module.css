@@ -1,0 +1,9 @@
+.range {
+    width: 90%;
+}
+
+.curr_length {
+    font-size: 12px;
+    display: flex;
+    margin: 10px 0 0 0px;
+}
